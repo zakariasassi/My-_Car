@@ -1,0 +1,36 @@
+.cars{
+    top: 60px;
+    position:relative   ;
+    width: 70%;
+    margin: auto;   
+}
+.col img {
+    display: block !important;
+    width: 200px !important;
+    height: 200px !important;
+    object-fit: cover !important; 
+}
+.top{
+    text-align: center;
+    font-family: cairo;
+    font-size:xx-large;
+}
+.topp{
+    text-align: center;
+    font-family: cairo;
+    font-size:medium;
+    font-weight: 800;
+}
+.view
+
+.view {
+    display: grid;
+  column-gap: 50px;
+
+    
+
+}
+
+.card{
+    padding: 20px !important;
+}

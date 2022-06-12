@@ -1,0 +1,53 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.containar {
+  height: auto;
+  width: 70%;
+  margin: auto;
+}
+.navbar {
+    display:flex;
+  background-color: rgb(0, 0, 255);
+  height: 5rem;
+  width: 100%;
+}
+
+.itames{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.itames div {
+    border-radius: 5px ;
+    margin : 0 10px 0 10px;
+    cursor: pointer;
+    height: auto;
+}
+.itames div:hover {
+    background-color: white;
+ 
+}
+.itames div h1 {
+    margin: 0;
+    font-family: cairo;
+    color: rgb(255, 255, 255);
+}
+
+.itames div h1:hover{
+    color:  rgb(0, 0, 255);;
+}
+
+.itames div h1 a{
+  text-decoration: none;
+  color: white;
+}
+.itames div h1 a:hover{
+  color:  rgb(0, 0, 255);
+}
+
+
